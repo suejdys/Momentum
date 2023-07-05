@@ -47,5 +47,3 @@ languages : html, js, css
 
 
 ### 참고자료 : [nomadcoder lecture](https://nomadcoders.co/javascript-for-beginners)
-
-"# Momentum" 
