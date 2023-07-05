@@ -14,7 +14,7 @@ function onGeoOk(position){
       });
 }
 function onGeoError(){
-    alert("위치를 찾을수 없습니다.");
+    alert("위치를 찾을수 없습니다. 위치정보를 켜주세요");
 }
 
 navigator.geolocation.getCurrentPosition(onGeoOk,onGeoError);
