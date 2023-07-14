@@ -4,6 +4,7 @@ momentum_clone coding project
 
 period : 20230625 => 20230704<br>
 languages : html, js, css
+반응형 X, 가로버전에 맞춰서 설계, 세로버전 지원 X
 --------------------------------
 
 코드 설명
@@ -42,7 +43,7 @@ languages : html, js, css
 ### 앞으로 할일
 * weather.js API키 숨기기 & 작동확인[완료]
 * 코드에 주석달기
-* css수정(디자인하기)
+* css수정(디자인하기)[완료]
 * github page or netlify에 호스팅하기[완료]
 * 도메인연결
 
