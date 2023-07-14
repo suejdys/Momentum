@@ -2,7 +2,7 @@ momentum_clone coding project
 ========================
 
 
-period : 20230625 => 20230704<br>
+period : 20230625 => 20230714<br>
 languages : html, js, css
 반응형 X, 가로버전에 맞춰서 설계, 세로버전 지원 X
 --------------------------------
