@@ -49,3 +49,4 @@ languages : html, js, css
 
 
 ### 참고자료 : [nomadcoder lecture](https://nomadcoders.co/javascript-for-beginners)
+### 완성품 : [보러가기](https://friendly-starburst-26b9c6.netlify.app/)
