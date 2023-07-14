@@ -33,7 +33,7 @@ function handleGeoSuccess(position) {
   getWeather(latitude, longitude);
 }
 function handleGeoError() {
-  console.log("위치를 찾을 수 없습니다. 위치정보를 켜주세요");
+  alert("위치를 찾을 수 없습니다. 위치정보를 켜주세요");
 }
 
 function askForCoords() {

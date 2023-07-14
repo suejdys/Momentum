@@ -11,4 +11,71 @@ img {
     bottom:0px;
     z-index: -1;
     opacity:80%;
-    }
+  }
+#clock {
+    position: absolute;
+    top: 50px;
+    font-size: 8rem;
+    text-align: center;
+    color: antiquewhite;
+}
+#container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+#weather{
+  display: flex;
+  justify-content: right;
+  min-height: 100vh;
+}
+#login-form {
+  position: absolute;
+  top: 50px;
+  
+  text-align: center;
+}
+#greeting {
+  position: absolute;
+  color: antiquewhite;
+  top: 50px;
+  font-size: 3rem;  
+  text-align: center;
+}
+#todos-form{
+  position: absolute;
+  color: antiquewhite;
+  top: 350px;
+
+  text-align: center;
+}
+
+#todos_list
+{
+  position: absolute;
+  color: antiquewhite;
+  top: 390px;
+
+  text-align: center;
+}
+#quote
+{
+  position: absolute;
+  color: antiquewhite;
+  bottom: 50px;
+  text-align: center;
+}
+input[type="text"] {width: 230px; height: 30px; 
+  font-weight: bold; font-size: 20px; border-radius: 10px;}
+  input[type="text"]:focus{background-color:lemonchiffon;}
+input[type="submit"] {width: 80px; height: 35px; color:black; 
+    font-weight: bold; font-size: 20px; border-radius: 10px;}
+    input[type="submit"]:focus{background-color:lemonchiffon;}
+
+.js-temp{
+  color: lemonchiffon;
+}
+.js-location{
+  color: lemonchiffon;
+}

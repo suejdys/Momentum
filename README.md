@@ -40,10 +40,11 @@ languages : html, js, css
 * 초기 API키 불러오는데 어려움 겪음
 
 ### 앞으로 할일
-* weather.js API키 숨기기 & 작동확인
+* weather.js API키 숨기기 & 작동확인[완료]
 * 코드에 주석달기
 * css수정(디자인하기)
-* github page or netlify에 호스팅하기
+* github page or netlify에 호스팅하기[완료]
+* 도메인연결
 
 
 ### 참고자료 : [nomadcoder lecture](https://nomadcoders.co/javascript-for-beginners)
