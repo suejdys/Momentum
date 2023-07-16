@@ -24,7 +24,7 @@ languages : html, js, css<br>
 * queryselector를 활용 html 태그 불러옴
 * 배경화면을 array를 생성하여 파일명 지정(background.js)
 * math.random함수를 사용해서 임의의 파일 지정
-* img폴더에 들어있는 jpeg파일을 불러오기
+* img폴더에 들어있는 jpg파일을 불러오기
 
 ### greeting.js
 * 제출할 시에 localstorage에 이름 저장
