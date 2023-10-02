@@ -45,7 +45,7 @@ languages : html, js, css<br>
 * 코드에 주석달기
 * css수정(디자인하기)[완료]
 * github page or netlify에 호스팅하기[완료]
-* 도메인연결
+* 도메인연결[완료]
 
 
 ### 참고자료 : [nomadcoder lecture](https://nomadcoders.co/javascript-for-beginners)
