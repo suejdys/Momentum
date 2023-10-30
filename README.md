@@ -4,7 +4,8 @@ momentum_clone coding project
 
 period : 20230625 => 20230714<br>
 languages : html, js, css<br>
-반응형 X, 가로버전에 맞춰서 설계, 세로버전 지원 X
+반응형 X, 가로버전에 맞춰서 설계, 세로버전 지원 X<br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de680064-f7cc-4d01-877b-ed751961fcaa/deploy-status)](https://app.netlify.com/sites/friendly-starburst-26b9c6/deploys)
 --------------------------------
 
 코드 설명
